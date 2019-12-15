@@ -1,0 +1,4 @@
+Axios - get, post, delete
+Routing -  switch, Route, params, history.push, Redirect not over to history push as the back button noyt works, absolute and relate path(this.props.match.url =>curr ka url link)
+
+nested wala doubt
